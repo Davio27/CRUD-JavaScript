@@ -40,4 +40,4 @@ Um sistema básico de CRUD (Create, Read, Update, Delete) para gerenciar informa
 
 Sinta-se à vontade para contribuir com melhorias e novas funcionalidades. Faça um fork do projeto, implemente as alterações e envie um pull request.
 
-Desenvolvido por [Davio27].
+Desenvolvido por Davio27(https://github.com/Davio27).
